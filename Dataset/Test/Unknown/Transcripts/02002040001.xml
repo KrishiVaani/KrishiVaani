@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<transcript lang="hindi">
+  <row>
+    <words>कभी कभी क्या होता है कि कुछ विशेष पौधें मिलते हैं</words>
+    <not-pronounced-properly/>
+    <sound-quality>3</sound-quality>
+    <asr-quality>1</asr-quality>
+    <audio-filename>02002040001_chunk_030.wav</audio-filename>
+    <tag>Male;</tag>
+  </row>
+  <row>
+    <words>चैन कर बड़ी मात्रा में उगाने के लिए उपयोग किया जाते हैं जो हम सेलेक्शन करते हैं</words>
+    <not-pronounced-properly/>
+    <sound-quality>3</sound-quality>
+    <asr-quality>1</asr-quality>
+    <audio-filename>02002040001_chunk_051.wav</audio-filename>
+    <tag>Male;</tag>
+  </row>
+  <row>
+    <words>ये</words>
+    <not-pronounced-properly/>
+    <sound-quality>3</sound-quality>
+    <asr-quality>1</asr-quality>
+    <audio-filename>02002040001_chunk_083.wav</audio-filename>
+    <tag>Male;</tag>
+  </row>
+</transcript>

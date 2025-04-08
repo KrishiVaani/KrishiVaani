@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<transcript lang="hindi">
+  <row>
+    <words>एक बीगा एक एकड भी नहीं थी मेरे पास</words>
+    <not-pronounced-properly/>
+    <sound-quality>3</sound-quality>
+    <asr-quality>1</asr-quality>
+    <audio-filename>02002160001_chunk_030.wav</audio-filename>
+    <tag>Male;</tag>
+  </row>
+  <row>
+    <words>मैं ये कहना चाहूँगा</words>
+    <not-pronounced-properly/>
+    <sound-quality>3</sound-quality>
+    <asr-quality>1</asr-quality>
+    <audio-filename>02002160001_chunk_072.wav</audio-filename>
+    <tag>Male;</tag>
+  </row>
+  <row>
+    <words>वो माता ही किस काम की</words>
+    <not-pronounced-properly/>
+    <sound-quality>3</sound-quality>
+    <asr-quality>1</asr-quality>
+    <audio-filename>02002160001_chunk_150.wav</audio-filename>
+    <tag>Male;</tag>
+  </row>
+  <row>
+    <words>जिसमें</words>
+    <not-pronounced-properly/>
+    <sound-quality>3</sound-quality>
+    <asr-quality>1</asr-quality>
+    <audio-filename>02002160001_chunk_221.wav</audio-filename>
+    <tag>Male;</tag>
+  </row>
+</transcript>
